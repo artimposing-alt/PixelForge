@@ -1,0 +1,6 @@
+
+{
+  "name": "PixelForge - Free Online Image Tools",
+  "description": "A comprehensive suite of client-side image processing tools including compression, resizing, conversion, and cropping. All processing happens locally in your browser for maximum privacy and speed.",
+  "requestFramePermissions": []
+}
